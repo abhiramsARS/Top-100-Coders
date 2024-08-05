@@ -2,7 +2,7 @@
 
 ### About Me
 
-> write about your self .................. (minimum 200 Characters)
+> I'm am currently a second Year BTech student, my core is Computer science and engineering with Cyber security at Ilahia College of Engineering and Technology
 
 
 ### Portfolio Highlights
